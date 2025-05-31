@@ -3,7 +3,7 @@ In the wake of increasing mental health challenges across diverse populations, i
 Current digital mental health solutions tend to be fragmented, lacking integration, personalization, and clinical depth. Moreover limited accessibility, and the absence of real-time support further hinder their effectiveness.
 There is a pressing need for a secure, user-centric, and scientifically grounded mental health assessment and support platform that leverages modern technologies — such as AI, data visualization, and biometric tools — to empower individuals and healthcare providers alike.
 
-Solution Overview: 
+Solution Overview:
 ~ Validated Mental Health Assessments: 
 Progressive, skip-logic forms evaluating anxiety, depression, stress, sleep, relationships, and daily functioning using severity scales (1–10).
 
