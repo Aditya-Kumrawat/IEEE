@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5"
+  },
+  "dependencies": {
+    "@types/node": "^22.15.29",
+    "groq-sdk": "^0.23.0"
+  }
+}
