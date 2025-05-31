@@ -22,3 +22,4 @@ Uses facial cues for stress detection and triggers appropriate stress-relief tec
 ~ Community & Self-Care Tools: 
 Includes anonymous forums, mood tracking, sentiment-aware journaling, and guided meditation timer.
 
+API used: $env:GROQ_API_KEY = "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"
