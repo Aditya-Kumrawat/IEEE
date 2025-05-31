@@ -8,7 +8,7 @@ Solution Overview:
 Progressive, skip-logic forms evaluating anxiety, depression, stress, sleep, relationships, and daily functioning using severity scales (1–10).
 
 ~ Interactive Analytics Dashboard: 
-Visualizations (via Chart.js/D3.js) track mental health trends, compare user data with anonymized populations, and generate PDF reports for healthcare providers.
+Visualizations track mental health trends.
 
 ~ AI-Powered Chatbot (Groq Integration):
 Provides 24/7 emotional support, crisis intervention, breathing exercises, and check-ins tailored to user needs.
@@ -20,8 +20,5 @@ Suggests therapy, meditation, yoga, lifestyle changes, and emergency resources b
 Uses facial cues for stress detection and triggers appropriate stress-relief techniques (e.g., guided breathing, meditations).
 
 ~ Community & Self-Care Tools: 
-Includes anonymous forums, mood tracking, sentiment-aware journaling, guided meditation timer, and regular mental health reminders.
-
-~ Secure Professional Integration:
-Features a therapist directory with reviews, booking system, and encrypted video consultations. Users can share progress securely with healthcare providers.
+Includes anonymous forums, mood tracking, sentiment-aware journaling, and guided meditation timer.
 
