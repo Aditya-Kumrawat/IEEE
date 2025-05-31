@@ -25,8 +25,8 @@ Includes anonymous forums, mood tracking, sentiment-aware journaling, and guided
 API used: GROQ API
 
 SetUp Instructions:
-Frontend: React.js with Material-UI/Tailwind CSS for responsive design
-Backend: Python (FastAPI/Django) with RESTful APIs
-Authentication: JWT-based secure login system
-Integration: Groq API for chatbot functionality
+Frontend: React.js with Material-UI/Tailwind CSS for responsive design,
+Backend: Python (FastAPI/Django) with RESTful APIs,
+Authentication: JWT-based secure login system,
+Integration: Groq API for chatbot functionality,
 Data Visualization: Chart.js/D3.js for analytics
