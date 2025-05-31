@@ -22,4 +22,11 @@ Uses facial cues for stress detection and triggers appropriate stress-relief tec
 ~ Community & Self-Care Tools: 
 Includes anonymous forums, mood tracking, sentiment-aware journaling, and guided meditation timer.
 
-API used: $env:GROQ_API_KEY = "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"
+API used: GROQ API
+
+SetUp Instructions:
+Frontend: React.js with Material-UI/Tailwind CSS for responsive design
+Backend: Python (FastAPI/Django) with RESTful APIs
+Authentication: JWT-based secure login system
+Integration: Groq API for chatbot functionality
+Data Visualization: Chart.js/D3.js for analytics
